@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Metronom</string>
+    <string name="action_settings">Settings</string>
+    <string name="top_label">Manual mode</string>
+    <string name="set_bpm_label">Set bpm you need below</string>
+    <string name="label_indicator">Indicator</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="bpm"> bpm</string>
+    <string name="default_value">60</string>
+</resources>
